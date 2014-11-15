@@ -6,4 +6,4 @@ Bad Bots Blocked
 
 Protect your website against web scraping, competitive data mining
 
-bigsec.net
+http://bigsec.net
