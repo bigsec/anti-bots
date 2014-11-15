@@ -66,3 +66,29 @@ http://www.80legs.com/webcrawler.html
 
 + Mozilla/5.0 (compatible; 008/0.83; http://www.80legs.com/webcrawler.html) Gecko/2008032620
 
+
+----
+
+
+A6-Indexer
+
+A6-Indexer is a bot used by the A6 Corporation, an online advertising platform.
+
+http://www.a6corp.com/a6-web-scraping-policy/
+
+
++ A6-Indexer/1.0 – (http://www.a6corp.com/a6-web-scraping-policy/)
+
+
+----
+ABACHOBot
+
+ABACHOBot is a spider from Abacho, a German-based search engine and web portal. There are localized versions of the ABACHOBot in the United Kingdom, Sweden, Turkey, Switzerland, Austria and France.
+
+http://www.abacho.com/
+
+
+ABACHOBot
+
++ ABACHOBot
+
